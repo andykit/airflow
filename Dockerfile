@@ -1,8 +1,8 @@
 # VERSION 1.9.0-4
-# AUTHOR: Matthieu "Puckel_" Roisil
+# AUTHOR: AndyKit 
 # DESCRIPTION: Basic Airflow container
-# BUILD: docker build --rm -t puckel/docker-airflow .
-# SOURCE: https://github.com/puckel/docker-airflow
+# BUILD: docker build --rm -t andykit/docker-airflow .
+# SOURCE: https://github.com/andykit/docker-airflow
 
 FROM python:3.6-slim
 LABEL maintainer="andykit_"
